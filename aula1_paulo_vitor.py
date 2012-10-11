@@ -1,5 +1,6 @@
 #coding: utf-8
-import requests
+#import requests
+import urllib2
 from sys import argv
 import json
 
