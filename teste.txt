@@ -1,0 +1,443 @@
+teste
+link tutorial git hub:
+http://codexico.com.br/blog/linux/tutorial-simples-como-usar-o-git-e-o-github/
+
+link repositório github
+http://www.github.com
+
+dados-terminal:
+
+cat: /home/administrador/.ssh/id_rsa.webservices: Arquivo ou diretório não encontrado
+xclip: -set: No such file or directory
+administrador@OptiPlex-790 ~ $ cat ~/.ssh/id_rsa.pub | xclip -sel clip
+cat: /home/administrador/.ssh/id_rsa.pub: Arquivo ou diretório não encontrado
+administrador@OptiPlex-790 ~ $ ls -la
+total 1232
+drwxr-xr-x 42 administrador administrador    4096 2012-10-10 15:32 .
+drwxr-xr-x  4 root          root             4096 2012-04-20 16:26 ..
+drwx------  3 administrador administrador    4096 2012-03-14 13:35 .adobe
+drwx------  2 administrador administrador    4096 2012-03-09 13:53 .aptitude
+drwxr-xr-x  2 administrador administrador    4096 2012-04-19 18:00 Área de trabalho
+-rw-------  1 administrador administrador    1211 2012-09-25 16:07 .bash_history
+-rw-r--r--  1 administrador administrador     220 2012-03-01 13:14 .bash_logout
+drwx------  9 administrador administrador    4096 2012-03-20 09:31 .cache
+drwxr-xr-x  2 administrador administrador    4096 2012-04-19 18:05 .caja
+drwxr-xr-x 19 administrador administrador    4096 2012-04-19 18:05 .config
+drwx------  3 administrador administrador    4096 2012-03-01 14:11 .dbus
+-rw-rw-r--  1 administrador administrador      28 2012-10-10 15:16 .dmrc
+drwxr-xr-x  2 administrador administrador    4096 2012-03-01 14:11 Documentos
+drwxr-xr-x  2 administrador administrador    4096 2012-04-20 15:01 Downloads
+-rw-------  1 administrador administrador      16 2012-03-01 14:11 .esd_auth
+drwxr-xr-x  2 administrador administrador    4096 2012-04-19 17:13 .fontconfig
+drwx------  5 administrador administrador    4096 2012-10-10 15:16 .gconf
+drwx------  4 administrador administrador    4096 2012-04-19 17:13 .gegl-0.0
+drwxr-xr-x 22 administrador administrador    4096 2012-04-19 17:36 .gimp-2.6
+-rw-r-----  1 administrador administrador       0 2012-04-19 18:04 .gksu.lock
+drwx------  5 administrador administrador    4096 2012-03-01 14:16 .gnome2
+drwx------  2 administrador administrador    4096 2012-03-01 14:16 .gnome2_private
+drwxrwxr-x  2 administrador administrador    4096 2012-09-25 15:32 .gstreamer-0.10
+-rw-rw-r--  1 administrador administrador     188 2012-10-10 15:16 .gtk-bookmarks
+dr-x------  2 administrador administrador       0 2012-10-10 15:16 .gvfs
+-rw-------  1 administrador administrador   14022 2012-10-10 15:16 .ICEauthority
+drwxr-xr-x  2 administrador administrador    4096 2012-03-01 14:11 Imagens
+drwx------  3 administrador administrador    4096 2012-03-21 17:01 .kde
+drwxrwxr-x  3 administrador administrador    4096 2012-03-06 12:47 .libreoffice
+drwxrwxr-x  5 administrador administrador    4096 2012-03-14 13:39 .linuxmint
+drwxr-xr-x  3 administrador administrador    4096 2012-03-01 14:11 .local
+drwx------  3 administrador administrador    4096 2012-03-14 13:35 .macromedia
+drwx------  5 administrador administrador    4096 2012-04-19 18:06 .mate2
+drwx------  2 administrador administrador    4096 2012-04-19 18:05 .mate2_private
+drwx------  4 administrador administrador    4096 2012-04-19 18:05 .mateconf
+drwx------  2 administrador administrador    4096 2012-04-19 18:06 .mateconfd
+drwxr-xr-x  2 administrador administrador    4096 2012-03-01 14:11 Modelos
+drwxr-xr-x  4 administrador administrador    4096 2012-03-01 13:14 .mozilla
+drwxr-xr-x  2 administrador administrador    4096 2012-03-01 14:11 Música
+-rw-------  1 administrador administrador      74 2012-03-21 15:25 .octave_hist
+-rw-rw-r--  1 administrador administrador     126 2012-05-10 14:17 .packettracer
+drwxrwxr-x  6 administrador administrador    4096 2012-04-13 16:29 PacketTracer5
+drwx------  3 administrador administrador    4096 2012-03-20 09:31 .pki
+-rw-r--r--  1 administrador administrador     797 2012-03-01 14:19 .profile
+drwxr-xr-x  2 administrador administrador    4096 2012-03-01 14:11 Público
+drwx------  2 administrador administrador    4096 2012-10-10 15:16 .pulse
+-rw-------  1 administrador administrador     256 2012-03-01 14:11 .pulse-cookie
+-rw-------  1 administrador administrador     637 2012-09-25 15:41 .recently-used
+-rw-r--r--  1 administrador administrador       0 2012-03-01 14:14 .sudo_as_admin_successful
+drwx------  2 administrador administrador    4096 2012-04-18 16:34 .synaptic
+drwx------  4 administrador administrador    4096 2012-04-13 16:29 .thumbnails
+drwxr-xr-x  2 administrador administrador    4096 2012-03-01 14:11 Vídeos
+-rw-------  1 administrador administrador    5195 2012-05-10 19:50 .viminfo
+drwxrwxr-x  2 administrador administrador    4096 2012-04-20 16:21 .VirtualBox
+drwxrwxr-x  2 administrador administrador    4096 2012-04-20 16:20 VirtualBox VMs
+-rw-------  1 administrador administrador    1766 2012-10-10 15:32 webservices
+-rw-r--r--  1 administrador administrador     393 2012-10-10 15:32 webservices.pub
+drwxr-xr-x  2 administrador administrador    4096 2012-03-13 16:27 .wireshark
+-rw-------  1 administrador administrador      57 2012-10-10 15:16 .Xauthority
+-rw-------  1 administrador administrador 1013274 2012-10-10 15:37 .xsession-errors
+administrador@OptiPlex-790 ~ $ ls ~/.ssh/
+ls: impossível acessar /home/administrador/.ssh/: Arquivo ou diretório não encontrado
+administrador@OptiPlex-790 ~ $ sudo ls ~/.ssh/
+ls: impossível acessar /home/administrador/.ssh/: Arquivo ou diretório não encontrado
+administrador@OptiPlex-790 ~ $ ls /home/a
+administrador/ aluno/         
+administrador@OptiPlex-790 ~ $ ls /home/aluno/
+Área de trabalho/ Downloads/        .ICEauthority     Público/
+.bash_history     .esd_auth         Imagens/          .pulse/
+.bash_logout      .gconf/           .linuxmint/       .pulse-cookie
+.cache/           .gnome2/          .local/           .thumbnails/
+.config/          .gnome2_private/  Modelos/          Vídeos/
+.dbus/            .gstreamer-0.10/  .mozilla/         .Xauthority
+.dmrc             .gtk-bookmarks    Música/           .xsession-errors
+Documentos/       .gvfs/            .profile          
+administrador@OptiPlex-790 ~ $ ls /home/administrador/
+.adobe/                    .macromedia/
+.aptitude/                 .mate2/
+Área de trabalho/          .mate2_private/
+.bash_history              .mateconf/
+.bash_logout               .mateconfd/
+.cache/                    Modelos/
+.caja/                     .mozilla/
+.config/                   Música/
+.dbus/                     .octave_hist
+.dmrc                      .packettracer
+Documentos/                PacketTracer5/
+Downloads/                 .pki/
+.esd_auth                  .profile
+.fontconfig/               Público/
+.gconf/                    .pulse/
+.gegl-0.0/                 .pulse-cookie
+.gimp-2.6/                 .recently-used
+.gksu.lock                 .sudo_as_admin_successful
+.gnome2/                   .synaptic/
+.gnome2_private/           .thumbnails/
+.gstreamer-0.10/           Vídeos/
+.gtk-bookmarks             .viminfo
+.gvfs/                     .VirtualBox/
+.ICEauthority              VirtualBox VMs/
+Imagens/                   webservices
+.kde/                      webservices.pub
+.libreoffice/              .wireshark/
+.linuxmint/                .Xauthority
+.local/                    .xsession-errors
+administrador@OptiPlex-790 ~ $ sudo apt-het install git-core
+sudo: apt-het: command not found
+administrador@OptiPlex-790 ~ $ sudo apt-get install git-core
+Lendo listas de pacotes... Pronto
+Construindo árvore de dependências       
+Lendo informação de estado... Pronto
+Os NOVOS pacotes a seguir serão instalados:
+  git-core
+0 pacotes atualizados, 1 pacotes novos instalados, 0 a serem removidos e 236 não atualizados.
+É preciso baixar 1.384 B de arquivos.
+Depois desta operação, 28,7 kB adicionais de espaço em disco serão usados.
+Obter:1 http://10.0.0.101/archive.ubuntu.com/ubuntu/ oneiric/main git-core all 1:1.7.5.4-1 [1.384 B]
+Baixados 1.384 B em 0s (57,9 kB/s)
+Selecionando pacote previamente não selecionado git-core.
+(Lendo banco de dados ... 258066 ficheiros e directórios actualmente instalados.)
+Desempacotando git-core (de .../git-core_1%3a1.7.5.4-1_all.deb) ...
+Configurando git-core (1:1.7.5.4-1) ...
+administrador@OptiPlex-790 ~ $ ssh-keygen -t rsa -C "webservices"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/administrador/.ssh/id_rsa): webservices
+webservices already exists.
+Overwrite (y/n)? y
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in webservices.
+Your public key has been saved in webservices.pub.
+The key fingerprint is:
+ae:29:61:81:f3:49:27:20:46:f3:79:1f:b2:c1:67:68 webservices
+The key's randomart image is:
++--[ RSA 2048]----+
+|.o               |
+|..+ o .          |
+|.. = E +         |
+|  o * O .        |
+|   + * .S        |
+|    =  .         |
+|   . .  .        |
+|    .  o         |
+|     .o          |
++-----------------+
+administrador@OptiPlex-790 ~ $ cat ~/.ssh/id_rsa.pub | xclip -sel clip
+cat: /home/administrador/.ssh/id_rsa.pub: Arquivo ou diretório não encontrado
+administrador@OptiPlex-790 ~ $ sudo cat ~/.ssh/id_rsa.pub | xclip -sel clip
+cat: /home/administrador/.ssh/id_rsa.pub: Arquivo ou diretório não encontrado
+administrador@OptiPlex-790 ~ $ ssh git@github.com
+The authenticity of host 'github.com (207.97.227.239)' can't be established.
+RSA key fingerprint is 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'github.com,207.97.227.239' (RSA) to the list of known hosts.
+Permission denied (publickey).
+administrador@OptiPlex-790 ~ $ sudo ssh git@github.com
+The authenticity of host 'github.com (207.97.227.239)' can't be established.
+RSA key fingerprint is 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'github.com,207.97.227.239' (RSA) to the list of known hosts.
+Permission denied (publickey).
+administrador@OptiPlex-790 ~ $ su -
+Senha: 
+OptiPlex-790 ~ # ssh-keygen -t rsa -C "chave"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/root/.ssh/id_rsa): chave
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in chave.
+Your public key has been saved in chave.pub.
+The key fingerprint is:
+03:08:07:48:34:89:e9:de:98:8f:cb:23:55:71:1f:c0 chave
+The key's randomart image is:
++--[ RSA 2048]----+
+|+*+.....         |
+|+..o..E .        |
+|.   .o.. .       |
+| .  .  ..        |
+|. +.    S        |
+| +..     .       |
+| .o              |
+|oo .             |
+|.oo              |
++-----------------+
+OptiPlex-790 ~ # cat ~/.ssh/id_rsa.pub | xclip -sel clip
+cat: /root/.ssh/id_rsa.pub: Arquivo ou diretório não encontrado
+OptiPlex-790 ~ # cat ~/.ssh/chave.pub | xclip -sel clip
+cat: /root/.ssh/chave.pub: Arquivo ou diretório não encontrado
+OptiPlex-790 ~ # cat ~/.ssh/chave.pub 
+cat: /root/.ssh/chave.pub: Arquivo ou diretório não encontrado
+OptiPlex-790 ~ # cat ~/.ssh/id_rsa.pub 
+cat: /root/.ssh/id_rsa.pub: Arquivo ou diretório não encontrado
+OptiPlex-790 ~ # cat ~/.ssh/id_rsa.pub
+cat: /root/.ssh/id_rsa.pub: Arquivo ou diretório não encontrado
+OptiPlex-790 ~ # ssh
+usage: ssh [-1246AaCfgKkMNnqsTtVvXxYy] [-b bind_address] [-c cipher_spec]
+           [-D [bind_address:]port] [-e escape_char] [-F configfile]
+           [-I pkcs11] [-i identity_file]
+           [-L [bind_address:]port:host:hostport]
+           [-l login_name] [-m mac_spec] [-O ctl_cmd] [-o option] [-p port]
+           [-R [bind_address:]port:host:hostport] [-S ctl_path]
+           [-W host:port] [-w local_tun[:remote_tun]]
+           [user@]hostname [command]
+OptiPlex-790 ~ # ssh 10.3.1.32
+ssh: connect to host 10.3.1.32 port 22: Network is unreachable
+OptiPlex-790 ~ # ssh 10.3.1.36
+ssh: connect to host 10.3.1.36 port 22: Connection refused
+OptiPlex-790 ~ # ls -la
+total 88
+drwx------ 13 root root 4096 2012-10-10 15:45 .
+drwxr-xr-x 24 root root 4096 2012-04-18 17:09 ..
+drwx------  2 root root 4096 2012-04-20 15:56 .aptitude
+-rw-------  1 root root 9524 2012-05-14 12:13 .bash_history
+drwx------  3 root root 4096 2012-03-14 15:54 .cache
+-rw-------  1 root root 1766 2012-10-10 15:45 chave
+-rw-r--r--  1 root root  387 2012-10-10 15:45 chave.pub
+drwxr-xr-x  4 root root 4096 2012-03-14 15:54 .config
+drwx------  3 root root 4096 2012-03-07 16:39 .dbus
+drwx------  3 root root 4096 2012-10-10 15:44 .gconf
+drwx------  2 root root 4096 2012-03-14 13:37 .mate2
+-rw-r--r--  1 root root  140 2011-07-08 14:13 .profile
+drwx------  2 root root 4096 2012-10-10 15:16 .pulse
+-rw-------  1 root root  256 2012-03-01 14:11 .pulse-cookie
+drwx------  2 root root 4096 2012-05-10 19:56 .ssh
+drwx------  3 root root 4096 2012-04-20 15:46 .synaptic
+drwxr-xr-x  2 root root 4096 2012-03-14 13:25 .vim
+-rw-------  1 root root 5792 2012-04-20 16:02 .viminfo
+drwxr-xr-x  2 root root 4096 2012-03-14 13:42 .wireshark
+OptiPlex-790 ~ # ls .s
+.ssh/      .synaptic/ 
+OptiPlex-790 ~ # ls .ssh/known_hosts 
+.aptitude/     chave.pub      .mate2/        .ssh/          .wireshark/
+.bash_history  .config/       .profile       .synaptic/     
+.cache/        .dbus/         .pulse/        .vim/          
+chave          .gconf/        .pulse-cookie  .viminfo       
+OptiPlex-790 ~ # cat ~/.ssh/known_hosts 
+.aptitude/     chave.pub      .mate2/        .ssh/          .wireshark/
+.bash_history  .config/       .profile       .synaptic/     
+.cache/        .dbus/         .pulse/        .vim/          
+chave          .gconf/        .pulse-cookie  .viminfo       
+OptiPlex-790 ~ # cat ~/.ssh/known_hosts /
+bin/        home/       lib64/      opt/        sbin/       tmp/
+boot/       initrd.img  lost+found/ proc/       selinux/    usr/
+dev/        lib/        media/      root/       srv/        var/
+etc/        lib32/      mnt/        run/        sys/        vmlinuz
+OptiPlex-790 ~ # cat ~/.ssh/known_hosts .
+./             .cache/        .mate2/        .ssh/          .wireshark/
+../            .config/       .profile       .synaptic/     
+.aptitude/     .dbus/         .pulse/        .vim/          
+.bash_history  .gconf/        .pulse-cookie  .viminfo       
+OptiPlex-790 ~ # cat ~/.ssh/known_hosts ./
+.aptitude/     chave.pub      .mate2/        .ssh/          .wireshark/
+.bash_history  .config/       .profile       .synaptic/     
+.cache/        .dbus/         .pulse/        .vim/          
+chave          .gconf/        .pulse-cookie  .viminfo       
+OptiPlex-790 ~ # cat ~/.ssh/known_hosts ./chave.pub 
+|1|0VJAmooqqtc44cyPR+51D1OXpp4=|JtXgDtP8s9u21zHkKq/1GZXaMmA= ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBLQXN0oUwgREx7m3phrK7dj8iJepksqpz0HHiXvd1ejHAMO+8po+NpjPjhkbe6kGMP35EhUr5rAuEqlZJ2fxcQw=
+|1|ZwlVxj0DsVqmj28dLYyPC7ZUB8s=|cxa3Pag0PU73k27FfoIMBiDTdfQ= ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ==
+|1|4HoYVO9kHUAv+6gGv8xOlKTNe04=|VlZC3tTYaxH+dmfVdqQtkk0DlC4= ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ==
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCTwXXaOBndQrALd2CyuDMFflxdT162WHLJKeZvdj8eHsk6CC/3JRtPEHNNv/O4plM3toReI/yhmQeMm0Keecj//jo+wbP0S2/i+w065DZv+pBUIKsUQGgFB/BIfJiENhZB3S7MJrbQevdzEWtziITMDF+l7uvQXGgBEZ9Xz9vr7UtiQ54CrljQtztfGSMM7ntACPsvrYJS0870sSZ3Gc3PCJ8rVA9fOjeO4PSsLR4DTDGbQ7Oef3tvQoJ+ymEpkipIs3pt0bAqbl2V6fXjM1ooRXNRrIlXqX6kALOUpTHUN45IW7I9dIzFavccb7mXWFsqpedppvLh8haf0G2c7mt chave
+OptiPlex-790 ~ # cat ~/.ssh/known_hosts ./chave.pub | xclip -sel clip
+OptiPlex-790 ~ # cat ~/.ssh/known_hosts ./chave.pub 
+|1|0VJAmooqqtc44cyPR+51D1OXpp4=|JtXgDtP8s9u21zHkKq/1GZXaMmA= ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBLQXN0oUwgREx7m3phrK7dj8iJepksqpz0HHiXvd1ejHAMO+8po+NpjPjhkbe6kGMP35EhUr5rAuEqlZJ2fxcQw=
+|1|ZwlVxj0DsVqmj28dLYyPC7ZUB8s=|cxa3Pag0PU73k27FfoIMBiDTdfQ= ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ==
+|1|4HoYVO9kHUAv+6gGv8xOlKTNe04=|VlZC3tTYaxH+dmfVdqQtkk0DlC4= ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ==
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCTwXXaOBndQrALd2CyuDMFflxdT162WHLJKeZvdj8eHsk6CC/3JRtPEHNNv/O4plM3toReI/yhmQeMm0Keecj//jo+wbP0S2/i+w065DZv+pBUIKsUQGgFB/BIfJiENhZB3S7MJrbQevdzEWtziITMDF+l7uvQXGgBEZ9Xz9vr7UtiQ54CrljQtztfGSMM7ntACPsvrYJS0870sSZ3Gc3PCJ8rVA9fOjeO4PSsLR4DTDGbQ7Oef3tvQoJ+ymEpkipIs3pt0bAqbl2V6fXjM1ooRXNRrIlXqX6kALOUpTHUN45IW7I9dIzFavccb7mXWFsqpedppvLh8haf0G2c7mt chave
+OptiPlex-790 ~ # ssh git@github.com
+Permission denied (publickey).
+OptiPlex-790 ~ # ssh git@github.com
+Permission denied (publickey).
+OptiPlex-790 ~ # ^C
+OptiPlex-790 ~ # cat ~/.ssh/known_hosts ./chave.pub 
+|1|0VJAmooqqtc44cyPR+51D1OXpp4=|JtXgDtP8s9u21zHkKq/1GZXaMmA= ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBLQXN0oUwgREx7m3phrK7dj8iJepksqpz0HHiXvd1ejHAMO+8po+NpjPjhkbe6kGMP35EhUr5rAuEqlZJ2fxcQw=
+|1|ZwlVxj0DsVqmj28dLYyPC7ZUB8s=|cxa3Pag0PU73k27FfoIMBiDTdfQ= ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ==
+|1|4HoYVO9kHUAv+6gGv8xOlKTNe04=|VlZC3tTYaxH+dmfVdqQtkk0DlC4= ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ==
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCTwXXaOBndQrALd2CyuDMFflxdT162WHLJKeZvdj8eHsk6CC/3JRtPEHNNv/O4plM3toReI/yhmQeMm0Keecj//jo+wbP0S2/i+w065DZv+pBUIKsUQGgFB/BIfJiENhZB3S7MJrbQevdzEWtziITMDF+l7uvQXGgBEZ9Xz9vr7UtiQ54CrljQtztfGSMM7ntACPsvrYJS0870sSZ3Gc3PCJ8rVA9fOjeO4PSsLR4DTDGbQ7Oef3tvQoJ+ymEpkipIs3pt0bAqbl2V6fXjM1ooRXNRrIlXqX6kALOUpTHUN45IW7I9dIzFavccb7mXWFsqpedppvLh8haf0G2c7mt chave
+OptiPlex-790 ~ # ssh-
+ssh-add      ssh-argv0    ssh-copy-id  ssh-keyscan  
+ssh-agent    ssh-askpass  ssh-keygen   ssh-vulnkey  
+OptiPlex-790 ~ # ssh-key
+ssh-keygen   ssh-keyscan  
+OptiPlex-790 ~ # ssh-keygen -t rsa -C "paulovf"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/root/.ssh/id_rsa): 
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /root/.ssh/id_rsa.
+Your public key has been saved in /root/.ssh/id_rsa.pub.
+The key fingerprint is:
+39:b3:f9:9e:8a:8a:3f:7c:96:06:28:ab:00:5e:2b:64 paulovf
+The key's randomart image is:
++--[ RSA 2048]----+
+|                 |
+|                 |
+|                 |
+|         .       |
+|.E o    S        |
+|* o o    =       |
+|.= o . .o        |
+|o ..o =. . .     |
+|o ..o*. .o+      |
++-----------------+
+OptiPlex-790 ~ # cat ~/.ssh/id_rsa.pub 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDQV2X6zY81OS6hvAgDHlHziZKblNekOABn7ZaMl9qrOBiI7dTyMgJ8GS3JDjxKHif9sn2xvqTGCQlCv2Y96KO730UuK6ELwjHDitHB3fBywLDsoAv1kDqBRRZNdAmlBfLLL2pvvNEN15OjQTxAPlSbnztXq5J6K3KpKHYKB2L9Sj8dBUGRZXtrIh0zd0jDQrNkby5z9XaJE8BZmvdqumhtcHZ6SAu4bnrdhCZDFU83yDHx9dFAPiyqXBF3p/UZi0LUnmrF0W59HOVk0Zv+ixPFG/5wODbL2QF02ZA9Z0suV560Cn5mS4u0VGwD/8mD1CoOKeLuSpl7QIVW4CtKKO/3 paulovf
+OptiPlex-790 ~ # ssh git@github.com
+PTY allocation request failed on channel 0
+OptiPlex-790 ~ # ls
+chave  chave.pub
+OptiPlex-790 ~ # cd 
+OptiPlex-790 ~ # exit
+sair
+administrador@OptiPlex-790 ~ $ ]
+
+]: comando não encontrado
+administrador@OptiPlex-790 ~ $ 
+administrador@OptiPlex-790 ~ $ 
+administrador@OptiPlex-790 ~ $ 
+administrador@OptiPlex-790 ~ $ cd Área\ de\ trabalho/
+administrador@OptiPlex-790 ~/Área de trabalho $ ls
+administrador@OptiPlex-790 ~/Área de trabalho $ cd 
+administrador@OptiPlex-790 ~ $ 
+administrador@OptiPlex-790 ~ $ 
+administrador@OptiPlex-790 ~ $ 
+administrador@OptiPlex-790 ~ $ cd Área\ de\ trabalho/
+administrador@OptiPlex-790 ~/Área de trabalho $ mkdir WebService
+administrador@OptiPlex-790 ~/Área de trabalho $ 
+administrador@OptiPlex-790 ~/Área de trabalho $ 
+administrador@OptiPlex-790 ~/Área de trabalho $ 
+administrador@OptiPlex-790 ~/Área de trabalho $ cd WebService/
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ 
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ 
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ ls
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ git init
+Initialized empty Git repository in /home/administrador/Área de trabalho/WebService/.git/
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ git remote add origin git@github.com:paulovf/Aula-Web_Services.git
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ git remote 
+origin
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ cat .git/config 
+[core]
+  repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@github.com:paulovf/Aula-Web_Services.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ 
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ 
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ 
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ ls
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ 
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ 
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ 
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ git pull origin master
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ cd
+administrador@OptiPlex-790 ~ $ rm -rf ~/.s
+.ssh/                      .sudo_as_admin_successful  .synaptic/                 
+administrador@OptiPlex-790 ~ $ rm -rf ~/.ssh/*
+administrador@OptiPlex-790 ~ $ ssh-keygen -t rsa -C "paulovf"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/administrador/.ssh/id_rsa): 
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/administrador/.ssh/id_rsa.
+Your public key has been saved in /home/administrador/.ssh/id_rsa.pub.
+The key fingerprint is:
+bf:fe:65:23:e3:bb:c2:c6:68:6a:a0:69:1d:c7:ff:8e paulovf
+The key's randomart image is:
++--[ RSA 2048]----+
+|                 |
+|                 |
+|                 |
+|                 |
+|     .  S        |
+|    o o  .       |
+|   + + . +. o +  |
+|  + . . +.=o = . |
+| .   ..oE==o=o   |
++-----------------+
+administrador@OptiPlex-790 ~ $ cat ~/.ssh/id_rsa.pub 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDv/j36+KkLS9Bv2NT8r0Zx5EaY/GukDP1hNIktT8wzqreLcaVK0PgYbFXGJJP83nCORh9aJrpr2GRW9UNCNGPeq2PMhwdzmqQnBiayHSkz6othe3UQpkYRGEmVATzujn5F2WVUi7+P2Z1eTYHvj4tn8XzXYyDgsJY6J94SNoQ27BsHYs4OIWgx0Rq4JI2s4O9YgKidqOht0+0ud1R3bOn9angHyYxqys1KMXKGG7WOyiUcG03p0VfhcX4qI+lrSAc/C5QPsTPlf0Y2Z99rBvS9N+zaQAXbEoHNh4BPv0i7LcjHW7+E4Xs/L6m8cCh0Si4tbb25g8gSauuk9qam7EFx paulovf
+administrador@OptiPlex-790 ~ $ cd Área\ de\ trabalho/WebService/
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ ls
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ 
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ git init
+Reinitialized existing Git repository in /home/administrador/Área de trabalho/WebService/.git/
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ git remote add origin git@github.com:paulovf/Aula-Web_Services.gitfatal: remote origin already exists.
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ git pull origin master
+The authenticity of host 'github.com (207.97.227.239)' can't be established.
+RSA key fingerprint is 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'github.com,207.97.227.239' (RSA) to the list of known hosts.
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0)
+Unpacking objects: 100% (3/3), done.
+From github.com:paulovf/Aula-Web_Services
+ * branch            master     -> FETCH_HEAD
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ ls
+README.md
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ vim teste.txt
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ git add teste.txt 
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ git commit -m "qualquer"
+[master ee08ddd] qualquer
+ Committer: Administrador <administrador@OptiPlex-790.(none)>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 files changed, 1 insertions(+), 0 deletions(-)
+ create mode 100644 teste.txt
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ git push origin master
+Counting objects: 4, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 290 bytes, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To git@github.com:paulovf/Aula-Web_Services.git
+   d1d5d58..ee08ddd  master -> master
+administrador@OptiPlex-790 ~/Área de trabalho/WebService $ 

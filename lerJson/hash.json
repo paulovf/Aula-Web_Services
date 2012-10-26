@@ -1,0 +1,6 @@
+{"nome": "tsi2012",
+  "turma": 2011,
+  "professor": "rafael",
+  "bancadas": ("bancada1": [{"nomeAluno": "aluno1",
+                  	"nota": 60, 
+                  	"id": 10}]}}
