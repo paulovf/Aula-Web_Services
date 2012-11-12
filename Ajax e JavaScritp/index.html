@@ -1,0 +1,72 @@
+﻿<html>
+	<head>
+		<title>AJAX com JQuery</title>
+		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+		<!--<script type="text/javascript">
+			//Cria Objeto ActiveX
+			//var dados = new ActiveXObject(“Scripting.FileSystemObject”);
+			alert ("Esta é uma caixa de diálogo ALERT do JavaScript!");
+
+			//Função para gravar o arquivo
+
+			/*function GravaArquivo(arq,texto)
+			{
+
+				//se o parametro arq que é o nome do arquivo vier vazio ele salvará o arquivo com o nome “Sem Titulo”
+				if(arq==”"){arq=”Sem Titulo”;}
+					//carrega o txt
+					var esc = dados.CreateTextFile(arq+”.txt”, false);
+					//escreve o que foi passado no parametro texto que é o texto contido no TextArea
+					esc.WriteLine(texto);
+					//fecha o txt
+					esc.Close();
+			}*/
+			
+			//Função para abrir o arquivo
+			function AbreArquivo()
+			{
+				//carrega o txt
+				var arquivo = dados.OpenTextFile("usuarios/user.json", 1, true);
+				var json = JSON.stringify(obj);
+				//varre o arquivo
+				while(!arquivo.AtEndOfStream)
+				{
+					json = arquivo.ReadAll();
+					obj = JSON.parse(json);
+				}
+				//fecha o txt
+				arquivo.Close();
+			}
+		</script>-->
+		<script type="text/javascript">
+			$.getJSON('usuarios/user.json', function(data) {
+			  var items = [];
+			 
+			  $.each(data, function(key, val) {
+			    items.push('<li id="' + key + '">' + val + '</li>');
+			  });
+			 
+			  $('</ul>', {
+			    'class': 'my-new-list',
+			    html: items.join('')
+			  }).appendTo('body');
+			});
+		</script>
+	</head>
+	
+	<body>
+
+		<center><table border="2" width="60%">
+			<tr>
+				<td>NOME</td>
+				<td>TURMA</td>
+				<td>ID</td>
+			</tr>
+			<tr>
+				<td><script>document.writeln(items.nome);</script></td>
+				<td><script>document.writeln(items.turma);</script></td>
+				<td><script>document.writeln(items.id);</script></td>
+			</tr>
+		</table></center>
+	</body>
+</html>

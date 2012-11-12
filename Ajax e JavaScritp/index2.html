@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<title>AJAX com Javascript</title>
+		<script type="text/javascript">
+			var funcionarios = '{"nome": "paulo", "turma": 2012, "id": 10}';
+						var funcionario = JSON.parse(funcionarios);
+			
+			/*alert (funcionario.nome);
+			alert (funcionario.turma);*/
+
+		</script>
+	</head>
+	
+	<body>
+		<center><table border="2" width="60%">
+			<tr>
+				<td>NOME</td>
+				<td>TURMA</td>
+				<td>ID</td>
+			</tr>
+			<tr>
+				<td><script>document.writeln(funcionario.nome);</script></td>
+				<td><script>document.writeln(funcionario.turma);</script></td>
+				<td><script>document.writeln(funcionario.id);</script></td>
+			</tr>
+		</table></center>
+	</body>
+</html>
